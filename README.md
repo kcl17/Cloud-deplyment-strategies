@@ -1,5 +1,4 @@
 # Cloud-deplyment-strategies
-#   Cloud Computing Deployment Strategies
 
 ##  Introduction
 
